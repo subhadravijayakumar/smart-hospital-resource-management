@@ -1,0 +1,6 @@
+{
+  "name": "Smart Hospital Resource Optimization & Management System",
+  "description": "Production-grade smart hospital resource optimization and management platform with AI/ML predictive analytics, greedy bed allocation, priority-queue emergency triage, role-based dashboards, and complete EHR management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
